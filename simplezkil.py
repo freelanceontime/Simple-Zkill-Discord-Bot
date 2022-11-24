@@ -1,9 +1,6 @@
 import websocket
 from discord import SyncWebhook
 from websocket import create_connection
-import discord
-import re
-import requests
 import json
 from bs4 import BeautifulSoup
 import time
