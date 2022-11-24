@@ -1,9 +1,6 @@
-import websocket
 from discord import SyncWebhook
 from websocket import create_connection
 import json
-from bs4 import BeautifulSoup
-import time
 
 # Add your Corp or Alliance ID
 allianceID = 99001105
