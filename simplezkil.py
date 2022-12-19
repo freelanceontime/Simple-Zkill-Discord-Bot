@@ -3,8 +3,8 @@ from websocket import create_connection
 import json
 
 # Add your Corp or Alliance ID
-allianceID = 99001105
-corporationID = 98512964
+allianceID = 
+corporationID = 
 allalliancekillswebhookurl = ""
 
 global toggle
